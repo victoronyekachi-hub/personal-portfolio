@@ -1,10 +1,9 @@
-
-let name = "Victor";
+const name = "name";
 let age = 18;
-let university = "FUASK";
-let course = "BSc Computer Science";
+const university = "FUASK";
+const course = "BSc Computer Science"
 
-console.log(name);
-console.log(age);
-console.log(university);
-console.log(course);
+console.log("name")
+console.log(18)
+console.log("FUASK")
+console.log("course")
