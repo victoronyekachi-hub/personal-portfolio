@@ -1,7 +1,7 @@
 const name = "name";
 let age = 18;
 const university = "FUASK";
-const course = "BSc Computer Science"
+const course = "BSc Computer Science";
 
 console.log("name");
 console.log(18);
