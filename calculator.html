@@ -1,27 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Victor's Calculator</title>
+
+    <link rel="stylesheet" href="calculator.css">
 </head>
 
 <body>
 
-    <h1>Simple Calculator</h1>
+    <div class="calculator">
 
-    <input type="number" id="number1" placeholder="First number">
+        <h1>Simple Calculator</h1>
 
-    <input type="number" id="number2" placeholder="Second number">
+        <input type="number" id="number1" placeholder="First number">
 
-    <button onclick="add()">Add</button>
-    <button onclick="subtract()">Subtract</button>
-    
-    <button onclick="multiply()">Multiply</button>
-<button onclick="divide()">Divide</button>
-    <h2>Result: <span id="result">0</span></h2>
+        <input type="number" id="number2" placeholder="Second number">
+
+        <button onclick="add()">Add</button>
+
+        <button onclick="subtract()">Subtract</button>
+
+        <button onclick="multiply()">Multiply</button>
+
+        <button onclick="divide()">Divide</button>
+
+        <h2>Result: <span id="result">0</span></h2>
+
+    </div>
 
     <script src="script.js"></script>
 
 </body>
+
 </html>
