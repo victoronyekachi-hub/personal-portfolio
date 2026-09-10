@@ -1,4 +1,4 @@
-const name = "name";
+const name = "Victor";
 let age = 18;
 const university = "FUASK";
 const course = "BSc Computer Science";
