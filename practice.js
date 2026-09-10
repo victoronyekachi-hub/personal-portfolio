@@ -1,0 +1,4 @@
+console.log("Victor");
+console.log(18);
+console.log("FUASK");
+console.log("bsc computer science");
