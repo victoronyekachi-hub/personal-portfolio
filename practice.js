@@ -1,6 +1,6 @@
 
 let name = "Victor";
-let age = "18";
+let age = 18;
 let university = "FUASK";
 let course = "Bsc Computer Science";
 
