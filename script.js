@@ -32,5 +32,10 @@ function divide() {
 
     document.getElementById("result").textContent = result;
 }
+
+    let result = number1 / number2;
+
+    document.getElementById("result").textContent = result;
+}
     document.getElementById("result").textContent = result;
 }
