@@ -1,4 +1,4 @@
-let name = "Victor";
-let age = "18";
-let university = "FUASK";
-let course = " BSC Computer Science";
+console.log(Victor)
+console.log(18)
+console.log(FUASK)
+console.log(bsc computer science)
