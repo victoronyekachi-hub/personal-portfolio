@@ -26,3 +26,10 @@ function divide() {
         document.getElementById("result").textContent = a / b;
     }
 }
+ let name = "Victor";
+ let age = 18;
+ let country = "Nigeria";
+
+console.log(name);
+console.log(age);
+console.log(country);
